@@ -61,7 +61,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     if query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton("👮 ᴏᴡɴᴇʀ", url="https://t.me/Mr_DiSasTer_XD"),
+                InlineKeyboardButton("👮 ᴏᴡɴᴇʀ", url="https://t.me/Nobita_Ki_Duniya"),
                 InlineKeyboardButton("🗨️ ᴜꜱᴇʀꜱ", callback_data="users"),
             ],
             [
@@ -94,7 +94,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("📢 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TechQuard"),
             ],
             [
-                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/Sumit9969/NIXA-MUSIC-BOT"),
+                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="Lol🤧🤧"),
             ],
             [
                 InlineKeyboardButton("📄 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -188,10 +188,10 @@ async def start(client: Client, message: Message):
             ],
             [
                 InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
-                InlineKeyboardButton("📢 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton("📢 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/NOBITA_VC"),
             ],
             [
-                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/Sumit9969/NIXA-MUSIC-BOT"),
+                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="LOL🤧🤧"),
             ],
             [
                 InlineKeyboardButton("📄 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
