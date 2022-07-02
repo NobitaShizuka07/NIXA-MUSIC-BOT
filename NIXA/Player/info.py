@@ -1,9 +1,9 @@
-from NIXA.main import bot
+from NOBITA.main import bot
 from pyrogram import filters
 
 
-OWNER = [5009839424 , 5180811178]
-sudos = [5137889730 , 5215873956]
+OWNER = [5234576739 , 5295679636]
+sudos = [5584103893 , 5352932279]
 
 @bot.on_message(filters.command("info"))
 def info(_, message):
