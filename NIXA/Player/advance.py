@@ -14,7 +14,7 @@ from datetime import datetime
 hl = '/'
 deadlyversion = 'sᴘᴀᴍʙᴏᴛ 2.0'
 
-NIXA_PIC = "https://te.legra.ph/file/084c206996897e2d42443.jpg"
+NIXA_PIC = "https://te.legra.ph/file/4f6b9305203837779eb52.jpg"
   
 
 DEADLY = "    ᴍᴜsɪᴄ sᴘᴀᴍ ʙᴏᴛ\n\n"
@@ -32,13 +32,10 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/TechQuard"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/TechQuardSupport")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Nobita_Supports"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Nobita_Ki_Duniya")
         ],
         [
-        Button.url("ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ", "https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw")
-        ]
-        ]
         )
     
 def get_readable_time(seconds: int) -> str:
