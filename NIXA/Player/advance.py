@@ -34,8 +34,12 @@ async def alive(event):
         [
         Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Nobita_Supports"),
         Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Nobita_Ki_Duniya")
+        
         ],
         [
+        Button.url("ᴏᴡɴᴇʀ", "https://t.me/Sanki_Nobita")
+        ]
+        ]
         )
     
 def get_readable_time(seconds: int) -> str:
