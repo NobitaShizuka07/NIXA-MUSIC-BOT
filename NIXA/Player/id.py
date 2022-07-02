@@ -1,4 +1,4 @@
-from NOBITA.main import bot
+from NIXA.main import bot
 from pyrogram import filters
 
 
